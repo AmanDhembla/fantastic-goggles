@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "67d86552-b027-454e-9a80-a24098820390",
+		"name": "Facebook mock server local",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "58598-67d86552-b027-454e-9a80-a24098820390"
+	},
+	"item": [
+		{
+			"name": "facebook.com",
+			"id": "cc2cc84d-d130-464e-a9c7-1f89c6453a97",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "facebook.com",
+					"host": [
+						"facebook",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

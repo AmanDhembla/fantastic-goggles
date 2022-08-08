@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "5b25c623-d250-424d-a71c-2bc1543be38f",
+		"name": "Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "58598"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "/test abc/right",
+					"path": [
+						"test abc",
+						"right"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "R1",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "/test abc/right",
+							"path": [
+								"test abc",
+								"right"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		}
+	]
+}
