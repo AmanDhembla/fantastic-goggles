@@ -21,6 +21,21 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "a2735aff-0ecc-4dd1-9fa1-11a86e8565cc",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "Second request",
+					"host": [
+						"Second request"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
